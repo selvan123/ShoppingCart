@@ -37,7 +37,7 @@
 				List</a> · <a href="<c:url value="/contactus"/>">Contact Us</a>
 		</p>
 
-		<p>Created by chandravati ShopIeasy &copy; 2017</p>
+		<p>Created by chandravati ShopIeasy &copy; 2016</p>
 	</div>
 	</footer>
 </body>
