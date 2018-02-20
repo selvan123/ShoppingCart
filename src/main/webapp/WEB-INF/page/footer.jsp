@@ -32,12 +32,12 @@
 	<div class="footer-left">
 
 		<p class="footer-links">
-			<a href="<c:url value="/index1"/>">Home</a> · <a
-				href="<c:url value="/aboutus"/>">About Us</a> · <a href="<c:url value="/getAllProducts" />">Product
-				List</a> · <a href="<c:url value="/contactus"/>">Contact Us</a>
+			<a href="<c:url value="/index1"/>">Home</a> Â· <a
+				href="<c:url value="/aboutus"/>">About Us</a> Â· <a href="<c:url value="/getAllProducts" />">Product
+				List</a> Â· <a href="<c:url value="/contactus"/>">Contact Us</a>
 		</p>
 
-		<p>Created by Mohammed Ismail.A ShopIeasy &copy; 2017</p>
+		<p>Created by chandravati ShopIeasy &copy; 2018</p>
 	</div>
 	</footer>
 </body>
