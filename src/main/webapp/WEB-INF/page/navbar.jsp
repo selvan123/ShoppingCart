@@ -8,7 +8,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<link rel="icon" type="image/x-icon" href="<c:url value="/resource/images/CGLogo.png"/>" />
+<link rel="icon" type="image/x-icon" href="<c:url value="/resource/images/favicon1.png"/>" />
 <link rel="stylesheet"
 	href="<c:url value="/resource/bootstrap/css/bootstrap.min.css"/>">
 <script src="<c:url value="/resource/js/jquery.js"/>"></script>
@@ -24,7 +24,7 @@
 
 		<div class="nav navbar">
 			<img class="navbar-brand"
-				src="<c:url value="/resource/images/shopieasy-logo.png"/>"
+				src="<c:url value="/resource/images/CGLogo.png"/>"
 				href="<c:url value="/index"/>" width="200px" height="100px"
 				alt="logo-image"></img>
 		</div>
