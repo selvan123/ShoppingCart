@@ -25,7 +25,7 @@
 		<div class="nav navbar">
 			<img class="navbar-brand"
 				src="<c:url value="/resource/images/CGLogo.png"/>"
-				href="<c:url value="/index"/>" width="200px" height="100px"
+				href="<c:url value="/index"/>" width="200px" height="80px"
 				alt="logo-image"></img>
 		</div>
 
