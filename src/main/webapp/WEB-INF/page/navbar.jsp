@@ -35,7 +35,7 @@
 				<span class="icon-bar"></span> <span class="icon-bar"></span> <span
 					class="icon-bar"></span>
 			</button>
-			<a class="navbar-brand" href="<c:url value="/index1" />">ShopIeasy</a>
+			<a class="navbar-brand" href="<c:url value="/index1" />">Mumbai Shop-Market</a>
 		</div>
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
