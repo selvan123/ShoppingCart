@@ -20,7 +20,7 @@ public class Test1 {
 	//driver=new ChromeDriver();
 		driver=new FirefoxDriver();
 	driver.manage().window().maximize();
-	driver.manage().timeouts().implicitlyWait(40, TimeUnit.SECONDS);
+	driver.manage().timeouts().implicitlyWait(300, TimeUnit.SECONDS);
 	driver.get("https://s3-us-west-2.amazonaws.com/java-demo-bucket/elb-dns.txt");
 	String url=driver.findElement(By.xpath("//body")).getText();
 	driver.get(url);
