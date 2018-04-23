@@ -38,7 +38,7 @@
 		<div class="col-md-4">
 			<div class="login-panel panel panel-default">
 				<div class="panel-heading">
-					<h3 class="panel-title" align="center">Sign In-3</h3>
+					<h3 class="panel-title" align="center">Sign In-Demo</h3>
 				</div>
 				<div class="panel-body">
 
