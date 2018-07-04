@@ -37,7 +37,7 @@
 				List</a> · <a href="<c:url value="/contactus"/>">Contact Us</a>
 		</p>
 
-		<p>Created by DAC, 2018</p>
+		<p>Created by DevOps Team, 2018</p>
 	</div>
 	</footer>
 </body>
