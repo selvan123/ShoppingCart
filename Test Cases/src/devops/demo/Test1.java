@@ -21,9 +21,10 @@ public class Test1 {
 		driver=new FirefoxDriver();
 	driver.manage().window().maximize();
 	driver.manage().timeouts().implicitlyWait(300, TimeUnit.SECONDS);
-	driver.get("https://s3-us-west-2.amazonaws.com/java-demo-bucket/elb-dns.txt");
-	String url=driver.findElement(By.xpath("//body")).getText();
-	driver.get(url);
+	//driver.get("https://s3-us-west-2.amazonaws.com/java-demo-bucket/elb-dns.txt");
+	//String url=driver.findElement(By.xpath("//body")).getText();
+		
+	driver.get("https://shoppingcart-app.azurewebsites.net/shoppingcart/");
 }
 	@Test
 	public static void test1(){
